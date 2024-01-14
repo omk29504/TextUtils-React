@@ -36,7 +36,7 @@ function App() {
     <>
       {/* <Router> */}
         <Navbar
-          title="TextAnalyzer"
+          title="Textify"
           About="About TextModifier"
           theme={theme}
           toggleMode={toggleMode}
